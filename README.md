@@ -1,10 +1,9 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I'm%20Harsh...👋;Full-Stack%20Web%20developer;Java%20Developer;Always%20eager%20to%20learn%20%3A)&font=Fira%20Code&center=true&vCenter=true&size=22&pause=1000&width=575&duration=4000"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I'm%20Nishkarsh...👋;Full-Stack%20Web%20developer;UI/UX%20Design;Always%20eager%20to%20learn%20%3A)&font=Fira%20Code&center=true&vCenter=true&size=22&pause=1000&width=575&duration=4000"></a>
 </p>
 
 <div align="center">
- <img src=https://komarev.com/ghpvc/?username=harshify alt=harshify>
- <a href="https://github.com/harshify/harshify/stargazers"><img src="https://img.shields.io/github/stars/harshify" alt="Stars Badge"/></a>
+ <a href="https://github.com/nishkarsh7078/nishkarsh7078/stargazers"><img src="https://img.shields.io/github/stars/nishkarsh7078" alt="Stars Badge"/></a>
 </div>
 <br>
 **💬 A Student Pursuing Bachelor of Technology in Computer Science <br>
@@ -34,16 +33,16 @@
  <h4>:zap: GitHub Stats :zap:</h4>
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshify&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishkarsh7078&theme=transparent" />
   </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshify&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishkarsh7078&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/harshify">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harshify&show_icons=true&theme=transparent&rank_icon=percentile" />
+  <a href="https://github.com/nishkarsh7078">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nishkarsh7078&show_icons=true&theme=transparent&rank_icon=percentile" />
   </a>
- <a href="https://github.com/harshify">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=harshify&layout=compact&theme=transparent&langs_count=20" />
+ <a href="https://github.com/nishkarsh7078">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nishkarsh7078&layout=compact&theme=transparent&langs_count=20" />
   </a>
  </p>
 
@@ -54,10 +53,10 @@
 **💬 My inbox is always open, Contact me. **
 <br>
 <br> 
-  <a href="https://www.linkedin.com/in/harsh-raj-mishra-18ba1322b/" target="_blank">
+  <a href="" target="_blank">
    <img align="left" alt="Harsh | Linkedin" width="26px" src="https://github.com/harshify/harshify/blob/main/Linkedin.svg" />
   </a>
-  <a href="mailto:harsh0906raj@gmail.com" target="_blank">
+  <a href="mailto:Nishkarsh.7078@gmail.com" target="_blank">
     <img align="left" alt="Harsh | Gmail" width="26px" src="https://github.com/harshify/harshify/blob/main/Gmail.svg" />
   </a>
   <a href="" target="_blank">
@@ -70,7 +69,7 @@
     <img align="left" alt="Harsh | CodeChef" width="26px" src="https://github.com/harshify/harshify/blob/main/codechef-svgrepo-com.svg" />
   </a>
  
-  <a href="https://leetcode.com/harsh964/" target="_blank">
+  <a href="" target="_blank">
     <img align="left" alt="Harsh | leetcode" width="25px" src="https://github.com/harshify/harshify/blob/main/LeetCode.svg" />
   </a>
   <a href="https://dev.to/harshify" target="_blank">
