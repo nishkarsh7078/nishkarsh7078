@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center">learner for scratch</h3>
+<h3 align="center">learner for scratch 😜</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishkarsh7078&label=Profile%20views&color=0e75b6&style=flat" alt="nishkarsh7078" /> </p>
 
