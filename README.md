@@ -1,3 +1,9 @@
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20I'm%20Nishkarsh...👋;Full-Stack%20Web%20developer;UI/UX%20Design;Always%20eager%20to%20learn%20%3A)&font=Fira%20Code&center=true&vCenter=true&size=22&pause=1000&width=575&duration=4000"></a>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Nishkarsh</h1>
 <h3 align="center">learner for scratch</h3>
 
